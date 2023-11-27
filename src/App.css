@@ -8,13 +8,14 @@
 .Home-Main {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     flex-wrap: wrap;
     margin: 2em;
 }
 
 .Profile-Pic{
-    width: 30%;
+    width: 25%;
+    /* margin: 0.5em; */
 }
 
 .Profile-Pic img{
@@ -22,10 +23,19 @@
 }
 
 .Basic-Info{
-    width: 70%;
+    width: 65%;
+    padding-left: 5%;
 }
 
 .Basic-Info ul {
     list-style: none;
-    padding: 2em;
+}
+
+.Basic-Info p {
+    padding-bottom: 0.5em;
+}
+
+.Paragraph{
+    margin-top: 1.5em;
+    margin-bottom: 1em;
 }
