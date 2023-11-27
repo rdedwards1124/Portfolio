@@ -4,3 +4,28 @@
     margin: 0;
     padding: 0;
 }
+
+.Home-Main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 2em;
+}
+
+.Profile-Pic{
+    width: 30%;
+}
+
+.Profile-Pic img{
+    width: 100%;
+}
+
+.Basic-Info{
+    width: 70%;
+}
+
+.Basic-Info ul {
+    list-style: none;
+    padding: 2em;
+}

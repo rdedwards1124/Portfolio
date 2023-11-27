@@ -25,7 +25,6 @@ function Navigation (){
                     </a>
                 </li>
             </ul>
-            <div className="log"></div>
         </nav>
     );
 }

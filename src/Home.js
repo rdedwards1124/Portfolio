@@ -1,14 +1,19 @@
-
+import React from 'react';
+import myImage from './me.png';
 
 function Home (){
     return(
         <>
-            <div>
-                <div>my prof pic</div>
-                <div>my basic info
+            <div className="Home-Main">
+                <div className="Profile-Pic">
+                    <img src={myImage}></img>
+                </div>
+                <div className="Basic-Info">
                     <ul>
                         <li>Name: Rashonda Edwards</li>
+                        <br/>
                         <li>Occupation: Software Developer</li>
+                        <br/>
                         <li>Skills:
                             <ul>
                                 <li>Programming Languages - Javascript, Python, SQL</li>
@@ -19,7 +24,7 @@ function Home (){
                         </li>
                     </ul>
                 </div>
-                <div>My Personal Statement</div>
+                <div className="Paragraph">My Personal Statement: Dedicated and certified software developer from CSU Long Beach with a background in mechanical engineering. Working towards a thriving software development career, leveraging skills in HTML, CSS, JavaScript, React, MongoDB, PostgreSQL, and more. Passionate about volunteering and have leadership experience as the President of the NSBE chapter at Cal Poly Pomona. Excited to contribute and create impactful coding projects and grow program knowledge. </div>
             </div>
         </>
     )
