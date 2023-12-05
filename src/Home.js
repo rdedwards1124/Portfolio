@@ -5,10 +5,10 @@ function Home() {
     return (
         <>
             <div className="Home-Main">
-                <div className="Profile-Pic">
+                <div className="Profile-Pic column">
                     <img src={myImage}></img>
                 </div>
-                <div className="Basic-Info">
+                <div className="Basic-Info column">
                     <h3>Name:</h3>
                     <p>Rashonda Edwards</p>
                     <h3>Occupation:</h3>
