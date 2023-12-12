@@ -3,7 +3,7 @@ import './Navigation.css';
 
 function Navigation (){
     return (
-        <nav className="nav">
+        <nav>
             <ul>
                 <li>
                     <a href="/" className="custom-link">
