@@ -1,5 +1,5 @@
 import React from "react";
-import myImage from "./me.png";
+import myImage from "./AddingPhotos/me.png";
 
 function Home() {
     return (

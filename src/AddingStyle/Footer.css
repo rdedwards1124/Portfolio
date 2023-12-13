@@ -2,9 +2,13 @@ footer {
     background-color: #222831;
     display: flex;
     list-style: none;
-    padding: 0;
-    text-align: center;
+    padding: 40px;
+    text-align: left;
     color: white;
+}
+
+.footer-div{
+    margin-right: 5em;
 }
 
 footer ul {
