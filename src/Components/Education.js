@@ -13,17 +13,29 @@ function Education() {
                     <p>California State University Long Beach</p>
                     <h3>Coursework:</h3>
                     <p>Back-End Development & APIs, React & Redux, SQL & Data Modeling, Programming with Python</p>
-                    <h3>Skills:</h3>
-                    <p>stuff</p>
+                    <h3>Personal Experience:</h3>
+                    <p>Dedicated and certified software developer from CSU Long
+                        Beach with a background in mechanical engineering.
+                        Working towards a thriving software development career,
+                        leveraging skills in HTML, CSS, JavaScript, React,
+                        MongoDB, PostgreSQL, and more. Passionate about
+                        volunteering and have leadership experience as the
+                        President of the NSBE chapter at Cal Poly Pomona.</p>
                 </div>
                 <div className="pic"></div>
                 <div className="div">
-                    <h3>Name:</h3>
-                    <p>Rashonda Edwards</p>
-                    <h3>Occupation:</h3>
-                    <p>Software Developer</p>
-                    <h3>Skills:</h3>
-                    <p>stuff</p>
+                    <h3>School:</h3>
+                    <p>California Polytechnic State University Pomona</p>
+                    <h3>Coursework:</h3>
+                    <p>Mechanical Engineering</p>
+                    <h3>Personal Experience:</h3>
+                    <p>Dedicated and certified software developer from CSU Long
+                        Beach with a background in mechanical engineering.
+                        Working towards a thriving software development career,
+                        leveraging skills in HTML, CSS, JavaScript, React,
+                        MongoDB, PostgreSQL, and more. Passionate about
+                        volunteering and have leadership experience as the
+                        President of the NSBE chapter at Cal Poly Pomona.</p>
                 </div>
             </div>
         </>
