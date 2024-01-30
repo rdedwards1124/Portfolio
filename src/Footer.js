@@ -11,8 +11,8 @@ function Footer (){
             </div>
             <div className="footer-div">
                 <h2>Websites</h2>
-                <h4>LinkedIn: <a className="custom-link" href="https://www.linkedin.com/in/rashondaedwards/">https://www.linkedin.com/in/rashondaedwards/</a></h4>
-                <h4>GitHub: <a className="custom-link" href="https://github.com/rdedwards1124">https://github.com/rdedwards1124</a></h4>
+                <h4> <a className="custom-link" href="https://www.linkedin.com/in/rashondaedwards/">LinkedIn</a></h4>
+                <h4> <a className="custom-link" href="https://github.com/rdedwards1124">GitHub</a></h4>
             </div>
         </footer>
     );

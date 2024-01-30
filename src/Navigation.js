@@ -25,6 +25,11 @@ function Navigation (){
                         Experience
                     </a>
                 </li>
+                <li>
+                    <a href="#" className="custom-link" onClick={()=>{}}>
+                        Projects
+                    </a>
+                </li>
             </ul>
         </nav>
     );

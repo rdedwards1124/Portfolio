@@ -11,8 +11,10 @@ function Education() {
                 <div className="div">
                     <h3>School:</h3>
                     <p>California State University Long Beach</p>
+                    <br/>
                     <h3>Coursework:</h3>
                     <p>Back-End Development & APIs, React & Redux, SQL & Data Modeling, Programming with Python</p>
+                    <br/>
                     <h3>Personal Experience: </h3>
                     <p>Dedicated and certified software developer from CSU Long
                         Beach with a background in mechanical engineering.
