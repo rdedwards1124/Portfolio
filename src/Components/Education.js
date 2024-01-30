@@ -28,8 +28,10 @@ function Education() {
                 <div className="div">
                     <h3>School:</h3>
                     <p>California Polytechnic State University Pomona</p>
+                    <br/>
                     <h3>Coursework:</h3>
                     <p>Mechanical Engineering</p>
+                    <br/>
                     <h3>Personal Experience:</h3>
                     <p>Dedicated and certified software developer from CSU Long
                         Beach with a background in mechanical engineering.
