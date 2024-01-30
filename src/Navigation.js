@@ -11,7 +11,7 @@ function Navigation (){
                     </a>
                 </li>
                 <li>
-                    <a href="#" className="custom-link">
+                    <a href="/About" className="custom-link">
                         About Me
                     </a>
                 </li>
