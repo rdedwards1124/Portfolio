@@ -8,6 +8,7 @@ function About() {
             <div className="Home-Main">
                 <div className="about-div"></div>
                 <div className="about-div"></div>
+                <div className="about-div"></div>
             </div>
         </>
     );
