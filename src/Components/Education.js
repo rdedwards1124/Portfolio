@@ -1,12 +1,15 @@
 import React from "react";
 import "../AddingStyle/Education.css";
 import CalPolyImg from "../AddingPhotos/calpolybroncos.png";
+import Csulbimg from "../AddingPhotos/CSULB.jpg"
 
 function Education() {
     return (
         <>
             <div className="Home-Main">
-                <div className="pic"></div>
+                <div className="pic">
+                    <img className="img" src={Csulbimg}></img>
+                </div>
                 <div className="div">
                     <h3>School:</h3>
                     <p>California State University Long Beach</p>
