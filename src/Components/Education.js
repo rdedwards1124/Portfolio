@@ -23,7 +23,7 @@ function Education() {
                     <h3>Skills/Experience: </h3>
                     <p>
                         HTML, CSS, JavaScript, React,
-                        MongoDB, PostgreSQL
+                        MongoDB, PostgreSQL, Cybersecurity, Git, GitHub
                     </p>
                 </div>
                 <div className="pic">
