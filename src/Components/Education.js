@@ -1,7 +1,7 @@
 import React from "react";
 import "../AddingStyle/Education.css";
 import CalPolyImg from "../AddingPhotos/calpolybroncos.png";
-import Csulbimg from "../AddingPhotos/CSULB.jpg"
+import Csulbimg from "../AddingPhotos/CSULB.jpg";
 
 function Education() {
     return (
@@ -20,15 +20,10 @@ function Education() {
                         Modeling, Programming with Python
                     </p>
                     <br />
-                    <h3>Personal Experience: </h3>
+                    <h3>Skills/Experience: </h3>
                     <p>
-                        Dedicated and certified software developer from CSU Long
-                        Beach with a background in mechanical engineering.
-                        Working towards a thriving software development career,
-                        leveraging skills in HTML, CSS, JavaScript, React,
-                        MongoDB, PostgreSQL, and more. Passionate about
-                        volunteering and have leadership experience as the
-                        President of the NSBE chapter at Cal Poly Pomona.
+                        HTML, CSS, JavaScript, React,
+                        MongoDB, PostgreSQL
                     </p>
                 </div>
                 <div className="pic">
@@ -41,16 +36,10 @@ function Education() {
                     <h3>Coursework:</h3>
                     <p>Mechanical Engineering</p>
                     <br />
-                    <h3>Personal Experience:</h3>
-                    <p>
-                        Dedicated and certified software developer from CSU Long
-                        Beach with a background in mechanical engineering.
-                        Working towards a thriving software development career,
-                        leveraging skills in HTML, CSS, JavaScript, React,
-                        MongoDB, PostgreSQL, and more. Passionate about
-                        volunteering and have leadership experience as the
-                        President of the NSBE chapter at Cal Poly Pomona.
-                    </p>
+                    <h3>Skills/Experience:</h3>
+                    <ul>
+                        <li>SolidWorks, VisualBasic for Excel, MatLab</li>
+                    </ul>
                 </div>
             </div>
         </>
