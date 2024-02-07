@@ -4,6 +4,7 @@ import CalPolyImg from "../AddingPhotos/calpolybroncos.png";
 import Csulbimg from "../AddingPhotos/CSULB.jpg";
 
 function Education() {
+
     return (
         <>
             <div className="Home-Main">
@@ -39,6 +40,7 @@ function Education() {
                     <h3>Skills/Experience:</h3>
                     <ul>
                         <li>SolidWorks, VisualBasic for Excel, MatLab</li>
+                        <li>Advanced Mathematics, Physics, Vector Mechanics</li>
                     </ul>
                 </div>
             </div>
