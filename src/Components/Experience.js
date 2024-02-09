@@ -1,16 +1,11 @@
 import React from "react";
 import "../AddingStyle/Education.css";
-// import "../AddingStyle/Experience.css";
-import CalPolyImg from "../AddingPhotos/calpolybroncos.png";
-import Csulbimg from "../AddingPhotos/CSULB.jpg";
-
 
 import uscImg from "../AddingPhotos/USC.png";
 import cppMepImg from "../AddingPhotos/cpp-mep.jpg";
 import archesImg from "../AddingPhotos/arches.png";
 import fedexImg from "../AddingPhotos/fedex-g.png";
 import targetImg from "../AddingPhotos/target.png";
-
 
 function Experience() {
 
