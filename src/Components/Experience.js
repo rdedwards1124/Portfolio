@@ -8,7 +8,7 @@ import Csulbimg from "../AddingPhotos/CSULB.jpg";
 import uscImg from "../AddingPhotos/USC.png";
 import cppMepImg from "../AddingPhotos/cpp-mep.jpg";
 import archesImg from "../AddingPhotos/arches.png";
-import fedexImg from "../AddingPhotos/fedex.jpg";
+import fedexImg from "../AddingPhotos/fedex-g.png";
 import targetImg from "../AddingPhotos/target.png";
 
 
@@ -22,21 +22,19 @@ function Experience() {
                 </div>
                 <div className="div">
                     <h3>Role:</h3>
-                    <p>California State University Long Beach</p>
+                    <p>Sales Floor/Presentation Team Member</p>
                     <br />
                     <h3>Company:</h3>
                     <p>
-                        Back-End Development & APIs, React & Redux, SQL & Data
-                        Modeling, Programming with Python
+                        Target, Redondo Beach, CA
                     </p>
                     <br />
                     <h3>Timeframe:</h3>
-                    <p>June 2010 - August 2010</p>
+                    <p>August 2017 - Present</p>
                     <br/>
                     <h3>Skills/Experience: </h3>
                     <p>
-                        HTML, CSS, JavaScript, React,
-                        MongoDB, PostgreSQL, Cybersecurity, Git, GitHub
+                        
                     </p>
                 </div>
                 <div className="pic">
@@ -44,40 +42,40 @@ function Experience() {
                 </div>
                 <div className="div">
                     <h3>Role:</h3>
-                    <p>California Polytechnic State University Pomona</p>
+                    <p>Warehouse Team Member</p>
                     <br />
                     <h3>Company:</h3>
-                    <p>Mechanical Engineering</p>
+                    <p>
+                        FedEx Ground, San Bernardino, CA
+                    </p>
                     <br />
                     <h3>Timeframe:</h3>
-                    <p>June 2010 - August 2010</p>
+                    <p>August 2016 - Febuary 2017</p>
                     <br/>
-                    <h3>Skills/Experience:</h3>
-                    <ul>
-                        <li>SolidWorks, VisualBasic for Excel, MatLab</li>
-                        <li>Advanced Mathematics, Physics, Vector Mechanics</li>
-                    </ul>
+                    <h3>Skills/Experience: </h3>
+                    <p>
+                        
+                    </p>
                 </div>
                 <div className="pic">
                     <img className="img" src={archesImg}></img>
                 </div>
                 <div className="div">
                     <h3>Role:</h3>
-                    <p>California State University Long Beach</p>
+                    <p>Math/Physics/Engineering Tutor</p>
                     <br />
                     <h3>Company:</h3>
                     <p>
-                        Back-End Development & APIs, React & Redux, SQL & Data
-                        Modeling, Programming with Python
+                        ARCHES Tutoring Program at
+                        California Polytechnic State University Pomona
                     </p>
                     <br />
                     <h3>Timeframe:</h3>
-                    <p>June 2010 - August 2010</p>
+                    <p>October 2014 - June 2015</p>
                     <br/>
                     <h3>Skills/Experience: </h3>
                     <p>
-                        HTML, CSS, JavaScript, React,
-                        MongoDB, PostgreSQL, Cybersecurity, Git, GitHub
+                        Time management, Problem solving, Teaching/Tutoring
                     </p>
                 </div>
                 <div className="pic">
@@ -91,17 +89,17 @@ function Experience() {
                     <br />
                     <h3>Company:</h3>
                     <p>
-                        California Polytechnic State University Pomona,
-                        MEP(Maximizing Engineering Potential) Program
+                        MEP(Maximizing Engineering Potential) Program at
+                        California Polytechnic State University Pomona
                     </p>
                     <br />
                     <h3>Timeframe:</h3>
-                    <p>June 2010 - August 2010</p>
+                    <p>September 2012 - March 2013</p>
                     <br/>
                     <h3>Skills/Experience:</h3>
                     <p>
                         Leadership, Collaboration, Teaching/Tutoring, 
-                        Event Planning
+                        Event Planning, Time Management
                     </p>
                 </div>
                 <div className="pic">
