@@ -29,7 +29,8 @@ function Experience() {
                     <br/>
                     <h3>Skills/Experience: </h3>
                     <p>
-                        
+                        Teamwork, Collaboration, Time management, Problem solving, 
+                        Communication
                     </p>
                 </div>
                 <div className="pic">
@@ -49,7 +50,7 @@ function Experience() {
                     <br/>
                     <h3>Skills/Experience: </h3>
                     <p>
-                        
+                        Teamwork, Collaboration, Fast-Paced Environment
                     </p>
                 </div>
                 <div className="pic">

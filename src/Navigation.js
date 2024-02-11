@@ -26,7 +26,7 @@ function Navigation (){
                     </a>
                 </li>
                 <li>
-                    <a href="#" className="custom-link" onClick={()=>{}}>
+                    <a href="/Projects" className="custom-link" onClick={()=>{}}>
                         Projects
                     </a>
                 </li>

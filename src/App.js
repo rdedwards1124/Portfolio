@@ -7,7 +7,7 @@ import Home from './Home';
 // import About from './Components/About';
 import Education from './Components/Education';
 import Experience from './Components/Experience';
-// import Projects from './Projects';
+import Projects from './Components/Projects';
 import Footer from "./Footer";
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
             {/* <Route exact path="/About" component={About}/> */}
             <Route exact path="/Education" component={Education} />
             <Route exact path="/Experience" component={Experience}/>
-            {/* <Route exact path="/" component={Projects}/> */}
+            <Route exact path="/Projects" component={Projects}/>
         </Switch>
         <Footer/>
     </BrowserRouter>
