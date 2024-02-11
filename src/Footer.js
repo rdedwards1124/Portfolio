@@ -2,12 +2,14 @@ import React from 'react';
 import './AddingStyle/Footer.css';
 
 function Footer (){
+    const phone = process.env.REACT_APP_MyPhone
     return (
         <footer>
             <div className="footer-div">
                 <h2>Contact Information</h2>
                 <h4>Email: rashondaedwards@aol.com</h4>
-                <h4>Phone Number: (xxx)xxx-xxxx</h4>
+                <h4>Phone Number: {phone}</h4>
+                <h4></h4>
             </div>
             <div className="footer-div">
                 <h2>Websites</h2>
