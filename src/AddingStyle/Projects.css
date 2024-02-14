@@ -1,0 +1,17 @@
+
+ul {
+    padding-left: 1em;
+}
+
+.links {
+    padding: 0
+}
+
+.Paragraph h3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.Paragraph h3 a:hover {
+    text-decoration: underline;
+}

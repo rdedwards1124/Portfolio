@@ -9,6 +9,7 @@ import Education from './Components/Education';
 import Experience from './Components/Experience';
 import Projects from './Components/Projects';
 import Footer from "./Footer";
+// import Projects from './Components/Project-Error.js';
 
 function App() {
   return (
