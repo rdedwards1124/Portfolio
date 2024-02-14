@@ -9,7 +9,7 @@ import Education from './Components/Education';
 import Experience from './Components/Experience';
 import Projects from './Components/Projects';
 import Footer from "./Footer";
-// import Projects from './Components/Project-Error.js';
+import ProjectError from './Components/Project-Error.js';
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
             <Route exact path="/Education" component={Education} />
             <Route exact path="/Experience" component={Experience}/>
             <Route exact path="/Projects" component={Projects}/>
+            <Route exact path="/ProjectError" component={ProjectError}/>
         </Switch>
         <Footer/>
     </BrowserRouter>
