@@ -1,4 +1,9 @@
 
+.header{
+    width: 100%;
+    text-align: center;
+}
+
 .div {
     margin: 1em;
     padding: 1em;

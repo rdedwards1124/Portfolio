@@ -12,6 +12,7 @@ function Experience() {
     return (
         <>
             <div className="Home-Main">
+            <div className="header"><h1>Experience</h1></div>
                 <div className="pic">
                     <img className="img" src={targetImg}></img>
                 </div>

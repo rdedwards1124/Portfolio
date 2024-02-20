@@ -7,7 +7,9 @@ function Education() {
 
     return (
         <>
+            
             <div className="Home-Main">
+            <div className="header"><h1>Education</h1></div>
                 <div className="pic">
                     <img className="img" src={Csulbimg}></img>
                 </div>

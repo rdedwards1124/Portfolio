@@ -5,6 +5,7 @@ function Projects() {
     return (
         <>
             <div className="Home-Main">
+            <div className="header"><h1>Projects</h1></div>
                 <div className="Paragraph">
                     <h3><a href="/ProjectError">Pokemon Pipeline</a></h3>
                     <p>
