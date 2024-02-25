@@ -39,6 +39,7 @@
     align-items: center;
     flex-wrap: wrap;
     background-color: white;
+    padding: 1em;
 }
 
 .ErrorPage .whitespace{

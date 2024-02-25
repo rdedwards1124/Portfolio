@@ -10,11 +10,7 @@ function Navigation (){
                         Home
                     </a>
                 </li>
-                {/* <li>
-                    <a href="/About" className="custom-link">
-                        About Me
-                    </a>
-                </li> */}
+ 
                 <li>
                     <a href="/Education" className="custom-link" onClick={()=>{}}>
                         Education
